@@ -1,6 +1,6 @@
-#Strononoff de Frango :chicken
+# Strononoff de Frango :chicken
 
-##Ingredientes
+## Ingredientes
 
  - 1kg de peito de frango
  - 
